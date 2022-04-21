@@ -1,0 +1,16 @@
+body,html{
+    height:100%;
+}
+
+#editor {
+    border-radius: 15px;
+}
+
+#student-name {
+    float: right;
+    margin-top: -5%;
+}
+
+#project-name {
+    margin-top: 20%;
+}
